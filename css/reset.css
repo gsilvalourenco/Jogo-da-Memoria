@@ -1,0 +1,12 @@
+@font-face {
+    font-family: font-simpsons;
+    src: url(../font-sinpsons/Simpsonfont\ DEMO.otf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    font-family: font-simpsons;
+}
